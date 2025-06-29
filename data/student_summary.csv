@@ -1,0 +1,31 @@
+student_id,full_name,school_name,grade_level,enrollment_date,avg_grade,total_absences,risk_flag
+1001,Aiden Chen,Delta Secondary,10,2022-09-01,78.5,1.0,OK
+1002,Maya Singh,Seaquam Secondary,11,2021-09-01,88.16666666666667,0.0,OK
+1003,Liam Johnson,North Delta Secondary,12,2020-09-01,70.83333333333333,2.0,OK
+1004,Emma Patel,Delta Secondary,9,2023-09-01,91.83333333333333,0.0,OK
+1005,Noah Kim,Burnsview Secondary,10,2022-09-01,67.83333333333333,2.0,OK
+1006,Sofia Martinez,Seaquam Secondary,11,2021-09-01,87.33333333333333,0.0,OK
+1007,Ethan Brown,North Delta Secondary,12,2020-09-01,74.16666666666667,2.0,OK
+1008,Olivia Wilson,Burnsview Secondary,9,2023-09-01,95.16666666666667,0.0,OK
+1009,Lucas Zhang,Delta Secondary,10,2022-09-01,62.5,2.0,At Risk
+1010,Chloe Nguyen,Seaquam Secondary,11,2021-09-01,87.83333333333333,0.0,OK
+1011,Jackson Lee,North Delta Secondary,12,2020-09-01,70.16666666666667,2.0,OK
+1012,Isabella White,Burnsview Secondary,9,2023-09-01,90.83333333333333,0.0,OK
+1013,James Singh,Delta Secondary,10,2022-09-01,68.16666666666667,2.0,OK
+1014,Amelia Khan,Seaquam Secondary,11,2021-09-01,86.16666666666667,0.0,OK
+1015,William Scott,North Delta Secondary,12,2020-09-01,77.83333333333333,2.0,OK
+1016,Grace Liu,Burnsview Secondary,9,2023-09-01,93.16666666666667,0.0,OK
+1017,Daniel Moore,Delta Secondary,10,2022-09-01,65.83333333333333,2.0,OK
+1018,Charlotte Adams,Seaquam Secondary,11,2021-09-01,88.83333333333333,0.0,OK
+1019,Michael Green,North Delta Secondary,12,2020-09-01,72.5,2.0,OK
+1020,Emily Turner,Burnsview Secondary,9,2023-09-01,95.83333333333333,0.0,OK
+1021,Henry Clark,Delta Secondary,10,2022-09-01,64.83333333333333,2.0,At Risk
+1022,Sophie Hall,Seaquam Secondary,11,2021-09-01,88.16666666666667,0.0,OK
+1023,Alexander Young,North Delta Secondary,12,2020-09-01,75.83333333333333,2.0,OK
+1024,Ella Baker,Burnsview Secondary,9,2023-09-01,92.16666666666667,0.0,OK
+1025,Matthew Wright,Delta Secondary,10,2022-09-01,68.5,2.0,OK
+1026,Abigail King,Seaquam Secondary,11,2021-09-01,85.16666666666667,0.0,OK
+1027,David Hill,North Delta Secondary,12,2020-09-01,77.83333333333333,2.0,OK
+1028,Lily Perez,Burnsview Secondary,9,2023-09-01,95.83333333333333,0.0,OK
+1029,Joseph Rivera,Delta Secondary,10,2022-09-01,63.833333333333336,2.0,At Risk
+1030,Zoe Campbell,Seaquam Secondary,11,2021-09-01,91.16666666666667,0.0,OK
